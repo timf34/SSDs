@@ -1,3 +1,13 @@
+### Update:
+
+I merged the files over from `ppo-harvest`. 
+
+I also changed the gym `regiser` function so that its directly within the 
+scripts that run. For some reason I was getting path issues potentially, 
+I'm not too sure tbh. But its working now! 
+
+-----
+
 This is an OpenAI gym implementation of the Commons Game, a multi-agent environment proposed in [A multi-agent reinforcement learning model of common-pool resource appropriation](https://arxiv.org/abs/1707.06600) using [pycolab](https://github.com/deepmind/pycolab) as game engine.
 
 ## Installation
