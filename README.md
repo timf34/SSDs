@@ -3,7 +3,7 @@
 I merged the files over from `ppo-harvest`. 
 
 I also changed the gym `regiser` function so that its directly within the 
-scripts that run. For some reason I was getting path issues potentially, 
+scripts that run. For some reason, I was getting path issues potentially, 
 I'm not too sure tbh. But its working now! 
 
 -----
